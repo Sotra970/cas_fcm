@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "320715568242",
+    "firebase_url": "https://lmsgp-97b72.firebaseio.com",
+    "project_id": "lmsgp-97b72",
+    "storage_bucket": "lmsgp-97b72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320715568242:android:bf5ba1175ed6ff38",
+        "android_client_info": {
+          "package_name": "com.cas_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320715568242-s82ju8h10pr7nqufelc4u05ot6gntb4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cas_fcm",
+            "certificate_hash": "a4d2e4cf14af4fcc407efc1ed2288b829385e32d"
+          }
+        },
+        {
+          "client_id": "320715568242-ftjhrm0ho7189e5l976garbm61dhcags.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhtfS5HQ7tKCH_8QnOMSjtY9Lsf4hTR3g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320715568242-ftjhrm0ho7189e5l976garbm61dhcags.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
